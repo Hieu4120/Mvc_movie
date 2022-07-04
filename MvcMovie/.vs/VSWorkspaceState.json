@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcMovie",
+    "\\MvcMovie\\Controllers",
+    "\\MvcMovie\\Views",
+    "\\MvcMovie\\Views\\Movies"
+  ],
+  "SelectedNode": "\\MvcMovie\\Views\\Movies\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
